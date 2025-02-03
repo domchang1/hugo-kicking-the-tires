@@ -6,6 +6,8 @@ menu:
     weight: 90
 ---
 
-# Contact
+# Contact Me
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Follow me on [Github](https://github.com/domchang1)
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/dominicchang08/)
